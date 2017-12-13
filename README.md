@@ -1,4 +1,4 @@
 # personal-website
 My Personal website
 
-...under construction
+Bootstraped using create-react-app
